@@ -1,5 +1,3 @@
-Preparing for the Future
-=======================================================================
 
 The future of artificial intelligence (AI) in team collaboration is exciting and holds tremendous potential for transforming the way teams work together. In this chapter, we will explore some trends and predictions for the future of AI in team collaboration and provide guidance on how organizations can prepare for this future.
 

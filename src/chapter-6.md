@@ -1,5 +1,3 @@
-Chapter 6: Implementing AI in Team Collaboration
-================================================
 
 Implementing artificial intelligence (AI) in team collaboration can be a complex process that requires careful planning and execution. In this chapter, we will explore the steps involved in implementing AI in team collaboration, including developing an AI strategy, overcoming resistance to change, and best practices for implementation.
 

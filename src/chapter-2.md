@@ -1,5 +1,3 @@
-Chapter 2: Understanding AI in Team Collaboration
-=================================================
 
 Artificial intelligence (AI) is transforming team collaboration by providing new tools and capabilities that enhance communication, productivity, and creativity. In this chapter, we will explore the different types of AI in team collaboration, how AI works in team collaboration, and provide a historical overview of AI in team collaboration.
 

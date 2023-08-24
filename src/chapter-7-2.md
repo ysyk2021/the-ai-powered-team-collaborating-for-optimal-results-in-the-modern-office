@@ -1,5 +1,3 @@
-Ensuring Transparency and Accountability
-======================================================================================
 
 As artificial intelligence (AI) continues to transform team collaboration, it is important for organizations to ensure transparency and accountability in their use of AI-powered tools. In this chapter, we will explore the importance of transparency and accountability when managing AI in team collaboration.
 

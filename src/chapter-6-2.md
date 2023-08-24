@@ -1,5 +1,3 @@
-Overcoming Resistance to Change
-=================================================================================
 
 Resistance to change is common when implementing new technologies, including artificial intelligence (AI) in team collaboration. To ensure successful implementation of AI-powered tools, it is important to overcome resistance to change. In this chapter, we will explore strategies for overcoming resistance to change when implementing AI in team collaboration.
 

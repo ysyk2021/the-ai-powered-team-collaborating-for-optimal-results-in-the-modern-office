@@ -1,5 +1,3 @@
-Chapter 8: Future of AI in Team Collaboration
-=============================================
 
 Artificial intelligence (AI) is transforming team collaboration by providing new tools and capabilities that enhance communication, productivity, and creativity. In this chapter, we will explore the future of AI in team collaboration, including emerging trends, potential challenges and opportunities, and how to prepare for the future.
 

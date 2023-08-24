@@ -1,5 +1,3 @@
-Project Management and Task Delegation
-===========================================================================================
 
 Artificial intelligence (AI) is transforming team collaboration by providing new tools and capabilities that enhance communication, productivity, and creativity. In this chapter, we will explore one of the key applications of AI in team collaboration: project management and task delegation.
 

@@ -1,5 +1,3 @@
-How AI Works in Team Collaboration
-=====================================================================================
 
 Artificial intelligence (AI) is transforming team collaboration by providing new tools and capabilities that enhance communication, productivity, and creativity. In this chapter, we will explore how AI works in team collaboration.
 

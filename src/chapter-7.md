@@ -1,5 +1,3 @@
-Chapter 7: Managing AI in Team Collaboration
-============================================
 
 Effective management of artificial intelligence (AI) is critical for successful implementation of AI-powered tools in team collaboration. In this chapter, we will explore strategies for managing AI in team collaboration, including data management, ensuring transparency and accountability, and addressing potential bias.
 

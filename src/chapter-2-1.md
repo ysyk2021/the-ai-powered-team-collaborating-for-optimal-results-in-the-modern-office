@@ -1,5 +1,3 @@
-Historical Overview of AI in Team Collaboration
-==================================================================================================
 
 Artificial intelligence (AI) has a long history in team collaboration, dating back to the early days of computing. In this chapter, we will provide a historical overview of AI in team collaboration.
 
