@@ -1,5 +1,4 @@
-Chapter 18: Emerging Trends
-===========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the ever-evolving landscape of AI-powered team collaboration, several emerging trends are shaping the way teams work and achieve optimal results. This chapter explores some of the key trends that are revolutionizing the modern office.
 

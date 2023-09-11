@@ -1,5 +1,4 @@
-Chapter 9: Ethical Considerations
-=================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 As AI-powered technologies become integral to the modern office, it is essential to address the ethical considerations that arise from their implementation. This chapter explores key ethical considerations that organizations need to navigate when leveraging AI in the workplace and provides guidance for fostering ethical practices.
 

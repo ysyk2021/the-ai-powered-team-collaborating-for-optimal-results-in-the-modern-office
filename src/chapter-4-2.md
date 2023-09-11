@@ -1,5 +1,4 @@
-Chapter 12: Legal Considerations
-================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Implementing AI-powered technologies in the modern office requires careful attention to legal considerations. This chapter highlights key legal considerations associated with AI and provides guidance on ensuring compliance and minimizing legal risks.
 

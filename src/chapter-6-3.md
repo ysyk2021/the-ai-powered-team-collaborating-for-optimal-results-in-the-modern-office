@@ -1,5 +1,4 @@
-Chapter 8: Best Practices for Implementation
-============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Implementing AI-powered technologies successfully requires careful planning and execution. This chapter presents best practices for organizations to follow when integrating AI into the modern office, ensuring a smooth and effective implementation process.
 

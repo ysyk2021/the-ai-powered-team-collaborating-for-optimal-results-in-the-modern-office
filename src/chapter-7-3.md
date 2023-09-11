@@ -1,5 +1,4 @@
-Chapter 11: Addressing Potential Bias
-=====================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Addressing potential bias is a critical aspect of harnessing AI-powered collaboration for optimal results in the modern office. This chapter explores the challenges of bias in AI systems and provides strategies to mitigate and address bias effectively.
 

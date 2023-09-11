@@ -1,5 +1,4 @@
-Chapter 6: Types of AI in Team Collaboration
-============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 AI (Artificial Intelligence) encompasses a diverse range of technologies and approaches that can revolutionize team collaboration in the modern office. This chapter explores different types of AI used in team collaboration, highlighting their unique functionalities and benefits.
 

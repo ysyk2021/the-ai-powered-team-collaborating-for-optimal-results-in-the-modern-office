@@ -1,5 +1,4 @@
-Chapter 10: Ensuring Transparency and Accountability
-====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Transparency and accountability are fundamental principles that underpin effective collaboration in the modern office. This chapter explores how AI-powered technologies can foster transparency, accountability, and ethical practices within teams.
 

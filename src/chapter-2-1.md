@@ -1,5 +1,4 @@
-Chapter 3: Historical Overview of AI in Team Collaboration
-==========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial Intelligence (AI) has revolutionized team collaboration in the modern office, enabling teams to work more efficiently and achieve optimal results. This chapter presents a historical overview of AI in team collaboration, highlighting key milestones and advancements that have shaped its evolution.
 

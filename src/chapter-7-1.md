@@ -1,5 +1,4 @@
-Chapter 8: Data Management
-==========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Effective data management is crucial for team collaboration and achieving optimal results in the modern office. This chapter explores how AI (Artificial Intelligence) can power data management, enabling teams to organize, analyze, and utilize data efficiently and securely.
 

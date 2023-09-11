@@ -1,5 +1,4 @@
-Chapter 9: Privacy and Security Concerns
-========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Protecting privacy and ensuring security are critical considerations when implementing AI-powered technologies in the modern office. This chapter explores the key privacy and security concerns associated with AI and provides strategies to mitigate risks and safeguard sensitive information.
 

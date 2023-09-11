@@ -1,5 +1,4 @@
-Chapter 15: Enhanced Communication and Coordination
-===================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Effective communication and seamless coordination are crucial for team collaboration in the modern office. This chapter explores how AI-powered technologies enhance communication channels, streamline coordination efforts, and promote optimal results through improved team dynamics and efficiency.
 

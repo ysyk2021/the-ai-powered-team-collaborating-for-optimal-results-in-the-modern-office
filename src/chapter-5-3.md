@@ -1,5 +1,4 @@
-Chapter 7: Performance Tracking and Analysis
-============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Tracking and analyzing team performance is vital for achieving optimal results in the modern office. This chapter explores how AI (Artificial Intelligence) can power performance tracking and analysis, providing teams with valuable insights and actionable information to enhance their productivity and effectiveness.
 

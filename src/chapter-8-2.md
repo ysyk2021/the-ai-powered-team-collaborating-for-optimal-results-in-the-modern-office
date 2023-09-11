@@ -1,5 +1,4 @@
-Chapter 16: Potential Challenges and Opportunities
-==================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the realm of AI-powered team collaboration in the modern office, there are both challenges and opportunities to consider. This chapter delves into the potential obstacles that teams may encounter while leveraging AI technologies, as well as the exciting possibilities that arise from harnessing the power of AI for optimal results.
 

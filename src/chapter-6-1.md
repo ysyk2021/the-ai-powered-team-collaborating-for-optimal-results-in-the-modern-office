@@ -1,5 +1,4 @@
-Chapter 4: Developing an AI Strategy
-====================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Developing a well-defined AI strategy is crucial for organizations seeking to leverage AI technologies effectively in the modern office. This chapter outlines the steps involved in developing an AI strategy and provides guidance on aligning AI initiatives with organizational goals and objectives.
 

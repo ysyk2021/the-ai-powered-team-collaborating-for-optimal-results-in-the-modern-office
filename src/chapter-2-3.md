@@ -1,5 +1,4 @@
-Chapter 5: How AI Works in Team Collaboration
-=============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial Intelligence (AI) plays a pivotal role in enhancing team collaboration and achieving optimal results in the modern office. This chapter delves into the inner workings of AI in team collaboration, exploring the underlying technologies and processes that enable AI to support and augment team activities.
 

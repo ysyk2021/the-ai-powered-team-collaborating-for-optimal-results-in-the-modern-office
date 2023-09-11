@@ -1,5 +1,4 @@
-Chapter 6: Overcoming Resistance to Change
-==========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Change is an inevitable part of modern workplaces, especially when adopting AI-powered technologies. However, resistance to change is a common challenge that organizations face. In this chapter, we will explore strategies and techniques for overcoming resistance to change and fostering a culture of acceptance and collaboration.
 

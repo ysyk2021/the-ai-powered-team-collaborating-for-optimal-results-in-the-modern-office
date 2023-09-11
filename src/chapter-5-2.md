@@ -1,5 +1,4 @@
-Chapter 9: Virtual Assistants and Chatbots
-==========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Virtual assistants and chatbots are AI-powered tools that revolutionize communication and collaboration in the modern office. This chapter explores how virtual assistants and chatbots can enhance teamwork, streamline workflows, and improve productivity.
 
